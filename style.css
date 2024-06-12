@@ -89,7 +89,7 @@ nav ul li a:hover::after{
     flex-basis:60%;
 }
 .about-col-2 p{
-    font-size: 20px;
+    font-size: 18px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 400;
 }
