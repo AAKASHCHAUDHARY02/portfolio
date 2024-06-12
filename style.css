@@ -89,7 +89,7 @@ nav ul li a:hover::after{
     flex-basis:60%;
 }
 .about-col-2 p{
-    font-size: 24px;
+    font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 400;
 }
@@ -122,7 +122,7 @@ nav ul li a:hover::after{
     width:50%;
 }
 .tab-contents ul{
-    font-size: 20px;
+    font-size: 17px;
 }
 .tab-contents ul li{
     list-style: none;
@@ -131,7 +131,7 @@ nav ul li a:hover::after{
 }
 .tab-contents ul li span{
     color:#ff004f;
-    font-size:24px;
+    font-size:20px;
     font-family:Arial, Helvetica, sans-serif;
 }
 .tab-contents{
